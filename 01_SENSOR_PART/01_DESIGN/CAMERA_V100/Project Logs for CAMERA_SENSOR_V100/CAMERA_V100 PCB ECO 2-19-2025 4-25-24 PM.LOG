@@ -1,0 +1,116 @@
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=+2.8V Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=+1.8V Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=+1.05V Pin=C16-1
+Removed Pin From Net: NetName=GND Pin=C16-2
+Removed Pin From Net: NetName=GND Pin=C81-1
+Removed Pin From Net: NetName=GND Pin=C82-1
+Removed Pin From Net: NetName=+1.8V Pin=C82-2
+Removed Pin From Net: NetName=GND Pin=C83-1
+Removed Pin From Net: NetName=GND Pin=C84-1
+Removed Pin From Net: NetName=+1.8V Pin=C84-2
+Removed Pin From Net: NetName=GND Pin=C85-1
+Removed Pin From Net: NetName=+1.8V Pin=C85-2
+Removed Pin From Net: NetName=GND Pin=C86-1
+Removed Pin From Net: NetName=+1.8V Pin=C86-2
+Removed Pin From Net: NetName=GND Pin=C87-1
+Removed Pin From Net: NetName=+1.8V Pin=C87-2
+Removed Pin From Net: NetName=GND Pin=C88-1
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=CAM_D0_N Pin=J1-2
+Removed Pin From Net: NetName=CAM_D0_P Pin=J1-3
+Removed Pin From Net: NetName=CAM_D1_N Pin=J1-4
+Removed Pin From Net: NetName=CAM_D1_P Pin=J1-5
+Removed Pin From Net: NetName=CAM_CK_N Pin=J1-6
+Removed Pin From Net: NetName=CAM_CK_P Pin=J1-7
+Removed Pin From Net: NetName=GND Pin=J1-14
+Removed Pin From Net: NetName=SEN_0_SDA Pin=R3-2
+Removed Pin From Net: NetName=SEN_0_SCL Pin=R4-2
+Removed Pin From Net: NetName=SEN_1_SDA Pin=R6-2
+Removed Pin From Net: NetName=SEN_1_SCL Pin=R7-2
+Removed Pin From Net: NetName=SEN_2_SDA Pin=R9-2
+Removed Pin From Net: NetName=SEN_2_SCL Pin=R10-2
+Removed Pin From Net: NetName=SEN_3_SDA Pin=R12-2
+Removed Pin From Net: NetName=SEN_3_SCL Pin=R13-2
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=GND Pin=U2-2
+Removed Pin From Net: NetName=GND Pin=U3-2
+Removed Pin From Net: NetName=+1.05V Pin=U3-5
+Removed Pin From Net: NetName=GND Pin=U4-2
+Removed Pin From Net: NetName=+2.8V Pin=U4-5
+Removed Pin From Net: NetName=GND Pin=U5-2
+Removed Pin From Net: NetName=+1.8V Pin=U5-5
+Removed Pin From Net: NetName=SEN_0_GPIO0 Pin=U10-4
+Removed Pin From Net: NetName=SEN_1_GPIO0 Pin=U10-5
+Removed Pin From Net: NetName=SEN_2_GPIO0 Pin=U10-6
+Removed Pin From Net: NetName=SEN_3_GPIO0 Pin=U10-7
+Removed Pin From Net: NetName=SEN_0_GPIO1 Pin=U10-8
+Removed Pin From Net: NetName=SEN_1_GPIO1 Pin=U10-9
+Removed Pin From Net: NetName=SEN_2_GPIO1 Pin=U10-10
+Removed Pin From Net: NetName=SEN_3_GPIO1 Pin=U10-11
+Removed Pin From Net: NetName=GND Pin=U10-12
+Removed Pin From Net: NetName=SEN_0_GPIO2 Pin=U10-13
+Removed Pin From Net: NetName=SEN_1_GPIO2 Pin=U10-14
+Removed Pin From Net: NetName=SEN_2_GPIO2 Pin=U10-15
+Removed Pin From Net: NetName=SEN_3_GPIO2 Pin=U10-16
+Removed Pin From Net: NetName=SEN_0_nOFF Pin=U10-17
+Removed Pin From Net: NetName=SEN_1_nOFF Pin=U10-18
+Removed Pin From Net: NetName=SEN_2_nOFF Pin=U10-19
+Removed Pin From Net: NetName=SEN_3_nOFF Pin=U10-20
+Removed Pin From Net: NetName=GND Pin=U10-21
+Removed Pin From Net: NetName=+1.8V Pin=U10-24
+Removed Pin From Net: NetName=GND Pin=U11-1
+Removed Pin From Net: NetName=GND Pin=U11-2
+Removed Pin From Net: NetName=GND Pin=U11-3
+Removed Pin From Net: NetName=SEN_0_SDA Pin=U11-5
+Removed Pin From Net: NetName=SEN_0_SCL Pin=U11-6
+Removed Pin From Net: NetName=SEN_1_SDA Pin=U11-8
+Removed Pin From Net: NetName=SEN_1_SCL Pin=U11-9
+Removed Pin From Net: NetName=GND Pin=U11-10
+Removed Pin From Net: NetName=SEN_2_SDA Pin=U11-12
+Removed Pin From Net: NetName=SEN_2_SCL Pin=U11-13
+Removed Pin From Net: NetName=SEN_3_SDA Pin=U11-15
+Removed Pin From Net: NetName=SEN_3_SCL Pin=U11-16
+Removed Pin From Net: NetName=GND Pin=U12-2
+Removed Pin From Net: NetName=GND Pin=U12-3
+Removed Pin From Net: NetName=SEN_0_CLK Pin=U12-4
+Removed Pin From Net: NetName=+1.8V Pin=U12-5
+Removed Pin From Net: NetName=GND Pin=U12-6
+Removed Pin From Net: NetName=GND Pin=U13-2
+Removed Pin From Net: NetName=GND Pin=U13-3
+Removed Pin From Net: NetName=SEN_1_CLK Pin=U13-4
+Removed Pin From Net: NetName=+1.8V Pin=U13-5
+Removed Pin From Net: NetName=GND Pin=U13-6
+Removed Pin From Net: NetName=GND Pin=U14-2
+Removed Pin From Net: NetName=GND Pin=U14-3
+Removed Pin From Net: NetName=SEN_2_CLK Pin=U14-4
+Removed Pin From Net: NetName=+1.8V Pin=U14-5
+Removed Pin From Net: NetName=GND Pin=U14-6
+Removed Pin From Net: NetName=GND Pin=U15-2
+Removed Pin From Net: NetName=GND Pin=U15-3
+Removed Pin From Net: NetName=SEN_3_CLK Pin=U15-4
+Removed Pin From Net: NetName=+1.8V Pin=U15-5
+Removed Pin From Net: NetName=GND Pin=U15-6
+Removed Pin From Net: NetName=GND Pin=Y1-2
+Added Component: Designator=J?(CONN24_6p32X1p85_hdr_HIR)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Hirose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=J?(CONN24_6p32X1p85_hdr_HIR)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Hirose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=SENSOR Member=Component H1 M3
+Added Member To Class: ClassName=SENSOR Member=Component H2 M3
+Added Member To Class: ClassName=SENSOR Member=Component H3 M3
+Added Member To Class: ClassName=SENSOR Member=Component H4 M3
+Added Member To Class: ClassName=SENSOR Member=Component J? DF40C-24DP-0.4V51
+Added Member To Class: ClassName=SENSOR Member=Component J? DF40C-24DP-0.4V51

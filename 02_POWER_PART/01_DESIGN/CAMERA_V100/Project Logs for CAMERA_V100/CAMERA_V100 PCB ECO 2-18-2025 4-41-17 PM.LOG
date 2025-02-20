@@ -1,0 +1,48 @@
+Add Component: Footprint Not Found HEX-M3
+Add Component: Footprint Not Found HEX-M3
+Add Component: Footprint Not Found HEX-M3
+Add Component: Footprint Not Found HEX-M3
+Add Component: Footprint Not Found 0532611571
+Added Component: Designator=U12(SOT236)
+Added Component: Designator=U13(SOT236)
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Pin To Net: Unknown Pin: Pin J1-5
+Add Pin To Net: Unknown Pin: Pin J1-6
+Add Pin To Net: Unknown Pin: Pin J1-7
+Add Pin To Net: Unknown Pin: Pin J1-8
+Add Pin To Net: Unknown Pin: Pin J1-9
+Add Pin To Net: Unknown Pin: Pin J1-10
+Add Pin To Net: Unknown Pin: Pin J1-11
+Add Pin To Net: Unknown Pin: Pin J1-12
+Add Pin To Net: Unknown Pin: Pin J1-13
+Add Pin To Net: Unknown Pin: Pin J1-14
+Add Pin To Net: Unknown Pin: Pin J1-15
+Add Pin To Net: Unknown Pin: Pin J1-S1
+Add Pin To Net: Unknown Pin: Pin J1-S2
+Added Pin To Net: NetName=NetR20_1 Pin=U12-1
+Added Pin To Net: NetName=GND Pin=U12-2
+Added Pin To Net: NetName=GND Pin=U12-3
+Added Pin To Net: NetName=SEN_0_CLK Pin=U12-4
+Added Pin To Net: NetName=+1.8V Pin=U12-5
+Added Pin To Net: NetName=GND Pin=U12-6
+Added Pin To Net: NetName=NetR20_1 Pin=U13-1
+Added Pin To Net: NetName=GND Pin=U13-2
+Added Pin To Net: NetName=GND Pin=U13-3
+Added Pin To Net: NetName=SEN_1_CLK Pin=U13-4
+Added Pin To Net: NetName=+1.8V Pin=U13-5
+Added Pin To Net: NetName=GND Pin=U13-6
+Add Pin To Net: Unknown Pin: Pin Y1-1
+Add Pin To Net: Unknown Pin: Pin Y1-2
+Add Pin To Net: Unknown Pin: Pin Y1-3
+Add Pin To Net: Unknown Pin: Pin Y1-4
+Add Class Member: Failed to add class member : Component H1 M3
+Add Class Member: Failed to add class member : Component H2 M3
+Add Class Member: Failed to add class member : Component H3 M3
+Add Class Member: Failed to add class member : Component H4 M3
+Add Class Member: Failed to add class member : Component J1 0532611571
+Added Member To Class: ClassName=SENSOR Member=Component U12 NL7SZ97DFT2G-Q
+Added Member To Class: ClassName=SENSOR Member=Component U13 NL7SZ97DFT2G-Q
+Add Class Member: Failed to add class member : Component Y1 DSC1001DL5-027.0000T

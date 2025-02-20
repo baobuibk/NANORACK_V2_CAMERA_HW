@@ -1,0 +1,154 @@
+Removed Pin From Net: NetName=+2.8V Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=+3.3V Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=+5V_CAM Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=+5V_CAM Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=+2.8V Pin=C11-2
+Removed Pin From Net: NetName=+3.3V Pin=C13-2
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=+1.8V Pin=C14-2
+Removed Pin From Net: NetName=+5V_CAM Pin=C23-1
+Removed Pin From Net: NetName=GND Pin=C23-2
+Removed Pin From Net: NetName=+2.8V Pin=C24-1
+Removed Pin From Net: NetName=GND Pin=C24-2
+Removed Pin From Net: NetName=+3.3V Pin=C25-1
+Removed Pin From Net: NetName=GND Pin=C25-2
+Removed Pin From Net: NetName=+1.8V Pin=C26-1
+Removed Pin From Net: NetName=GND Pin=C26-2
+Removed Pin From Net: NetName=GND Pin=U1-1
+Removed Pin From Net: NetName=+5V_CAM Pin=U1-3
+Removed Pin From Net: NetName=+2.8V Pin=U1-4
+Removed Pin From Net: NetName=GND Pin=U4-1
+Removed Pin From Net: NetName=+5V_CAM Pin=U4-3
+Removed Pin From Net: NetName=+2.8V Pin=U4-4
+Removed Pin From Net: NetName=GND Pin=U5-1
+Removed Pin From Net: NetName=+3.3V Pin=U5-3
+Removed Pin From Net: NetName=+1.8V Pin=U5-4
+Removed Member From Class: ClassName=CONNECTOR Member=C14
+Removed Member From Class: ClassName=CONNECTOR Member=C23
+Removed Member From Class: ClassName=CONNECTOR Member=C24
+Removed Member From Class: ClassName=CONNECTOR Member=C25
+Removed Member From Class: ClassName=CONNECTOR Member=C26
+Removed Member From Class: ClassName=DIFF100 Member=CLK_N
+Removed Member From Class: ClassName=DIFF100 Member=CLK_P
+Removed Member From Class: ClassName=DIFF100 Member=D1_N
+Removed Member From Class: ClassName=DIFF100 Member=D1_P
+Removed Member From Class: ClassName=DIFF100 Member=D2_N
+Removed Member From Class: ClassName=DIFF100 Member=D2_P
+Change Component Footprint: Designator=C4 Old Footprint=CAP_C_1005X60 New Footprint=CAP_MP_1608X90
+Change Component Footprint: Designator=C5 Old Footprint=CAP_C_1005X60 New Footprint=CAP_MP_1608X90
+Change Component Footprint: Designator=C10 Old Footprint=CAP_C_1005X60 New Footprint=CAP_MP_1608X90
+Change Component Footprint: Designator=C11 Old Footprint=CAP_C_1005X60 New Footprint=CAP_MP_1608X90
+Change Component Footprint: Designator=U1 Old Footprint=SOT230P700X180-4N New Footprint=SOT25
+Change Component Footprint: Designator=U4 Old Footprint=SOT230P700X180-4N New Footprint=SOT25
+Change Component Footprint: Designator=U5 Old Footprint=SOT230P700X180-4N New Footprint=SOT25
+Change Component Comment : Designator=C4 Old Comment=0.22uF/16V New Comment=4.7uF/10V
+Change Component Comment : Designator=C5 Old Comment=0.22uF/16V New Comment=4.7uF/10V
+Change Component Comment : Designator=C10 Old Comment=0.22uF/16V New Comment=4.7uF/10V
+Change Component Comment : Designator=C11 Old Comment=0.22uF/16V New Comment=4.7uF/10V
+Change Component Comment : Designator=U5 Old Comment=TLV1117LV18DCYR New Comment=TLV75518PDBVR
+Change Component Comment : Designator=U4 Old Comment=TLV1117LV28DCYR New Comment=TLV75528PDBVR
+Change Component Comment : Designator=U1 Old Comment=TLV1117LV33DCYR New Comment=TLV75533PDBVR
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CAP_C_1005X60"; UniqueID = "\VLXPHZKQ" ("\VLXPHZKQ")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAP_C_1005X60"; UniqueID = "\TJQTEZKT" ("\TJQTEZKT")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "CAP_C_1005X60"; UniqueID = "\PZRVFVGV" ("\PZRVFVGV")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "CAP_C_1005X60"; UniqueID = "\KWOWXZWJ" ("\KWOWXZWJ")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R25(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R26(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R27(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(OSCDFN250X200X89-4N)
+Added Pin To Net: NetName=+3.3V Pin=C2-1
+Added Pin To Net: NetName=+5V_CAM Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=+2.8V Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=+5V_CAM Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=+1.8V Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=+1.8V Pin=C13-2
+Added Pin To Net: NetName=D1_N Pin=J1-2
+Added Pin To Net: NetName=D1_P Pin=J1-3
+Added Pin To Net: NetName=D2_N Pin=J1-4
+Added Pin To Net: NetName=D2_P Pin=J1-5
+Added Pin To Net: NetName=CLK_N Pin=J1-6
+Added Pin To Net: NetName=CLK_P Pin=J1-7
+Added Pin To Net: NetName=+5V_CAM Pin=R25-2
+Added Pin To Net: NetName=+5V_CAM Pin=R26-2
+Added Pin To Net: NetName=+5V_CAM Pin=R27-2
+Added Pin To Net: NetName=+5V_CAM Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=+3.3V Pin=U1-5
+Added Pin To Net: NetName=+5V_CAM Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=+2.8V Pin=U4-5
+Added Pin To Net: NetName=+5V_CAM Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=+1.8V Pin=U5-5
+Added Pin To Net: NetName=+3.3V Pin=Y1-1
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=NetR20_2 Pin=Y1-3
+Added Pin To Net: NetName=+3.3V Pin=Y1-4
+Change Net Name : Old Net Name=CLK_N New Net Name=CAM_CK_N
+Change Net Name : Old Net Name=CLK_P New Net Name=CAM_CK_P
+Change Net Name : Old Net Name=D1_N New Net Name=CAM_D0_N
+Change Net Name : Old Net Name=D1_P New Net Name=CAM_D0_P
+Change Net Name : Old Net Name=D2_N New Net Name=CAM_D1_N
+Change Net Name : Old Net Name=D2_P New Net Name=CAM_D1_P
+Added Pin To Net: NetName=NetR25_1 Pin=R25-1
+Added Pin To Net: NetName=NetR25_1 Pin=U1-3
+Added Net: Name=NetR25_1
+Added Pin To Net: NetName=NetR26_1 Pin=R26-1
+Added Pin To Net: NetName=NetR26_1 Pin=U4-3
+Added Net: Name=NetR26_1
+Added Pin To Net: NetName=NetR27_1 Pin=R27-1
+Added Pin To Net: NetName=NetR27_1 Pin=U5-3
+Added Net: Name=NetR27_1
+Added Differential Pair: Name=CAM_CK
+Added Differential Pair: Name=CAM_D0
+Added Differential Pair: Name=CAM_D1
+Added Member To Class: ClassName=CONNECTOR Member=Component R25 10k
+Added Member To Class: ClassName=CONNECTOR Member=Component R26 10k
+Added Member To Class: ClassName=CONNECTOR Member=Component R27 10k
+Added Member To Class: ClassName=SENSOR Member=Component Y1 DSC1001DL5-027.0000T
+Added Member To Class: ClassName=DIFF100 Member=Wire CAM_CK_N
+Added Member To Class: ClassName=DIFF100 Member=Wire CAM_CK_P
+Added Member To Class: ClassName=DIFF100 Member=Wire CAM_D0_N
+Added Member To Class: ClassName=DIFF100 Member=Wire CAM_D0_P
+Added Member To Class: ClassName=DIFF100 Member=Wire CAM_D1_N
+Added Member To Class: ClassName=DIFF100 Member=Wire CAM_D1_P

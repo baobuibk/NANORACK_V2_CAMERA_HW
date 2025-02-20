@@ -1,0 +1,33 @@
+Added Component: Designator=J1(0532611571)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/532611571/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "532611571"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/532611571/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/532611571/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=CAM_D0_N Pin=J1-2
+Added Pin To Net: NetName=CAM_D0_P Pin=J1-3
+Added Pin To Net: NetName=CAM_D1_N Pin=J1-4
+Added Pin To Net: NetName=CAM_D1_P Pin=J1-5
+Added Pin To Net: NetName=CAM_CK_N Pin=J1-6
+Added Pin To Net: NetName=CAM_CK_P Pin=J1-7
+Added Pin To Net: NetName=CAM_IO1 Pin=J1-8
+Added Pin To Net: NetName=CAM_IO0 Pin=J1-9
+Added Pin To Net: NetName=CAM_SCL Pin=J1-10
+Added Pin To Net: NetName=CAM_SDA Pin=J1-11
+Added Pin To Net: NetName=CM4_SCL Pin=J1-12
+Added Pin To Net: NetName=CM4_SDA Pin=J1-13
+Added Pin To Net: NetName=GND Pin=J1-14
+Added Pin To Net: NetName=+5V_CAM Pin=J1-15
+Added Pin To Net: NetName=GND_EXP Pin=J1-S1
+Added Pin To Net: NetName=GND_EXP Pin=J1-S2
+Add Pin To Net: Unknown Pin: Pin Y1-1
+Add Pin To Net: Unknown Pin: Pin Y1-2
+Add Pin To Net: Unknown Pin: Pin Y1-3
+Add Pin To Net: Unknown Pin: Pin Y1-4
+Added Member To Class: ClassName=CONNECTOR Member=Component J1 0532611571
+Add Class Member: Failed to add class member : Component Y1 DSC1001DL5-027.0000T

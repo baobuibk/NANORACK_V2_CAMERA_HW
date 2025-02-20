@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=+3.3V Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=+2.8V Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=+1.05V Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=+2.4V Pin=C12-2
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=+1.8V Pin=C13-2
+Removed Member From Class: ClassName=CONNECTOR Member=C3
+Removed Member From Class: ClassName=CONNECTOR Member=C6
+Removed Member From Class: ClassName=CONNECTOR Member=C9
+Removed Member From Class: ClassName=CONNECTOR Member=C12
+Removed Member From Class: ClassName=CONNECTOR Member=C13
+Added Member To Class: ClassName=DIFF100 Member=Wire CAM_CK_N
+Added Member To Class: ClassName=DIFF100 Member=Wire CAM_CK_P
+Added Member To Class: ClassName=DIFF100 Member=Wire CAM_D0_N
+Added Member To Class: ClassName=DIFF100 Member=Wire CAM_D0_P
+Added Member To Class: ClassName=DIFF100 Member=Wire CAM_D1_N
+Added Member To Class: ClassName=DIFF100 Member=Wire CAM_D1_P
