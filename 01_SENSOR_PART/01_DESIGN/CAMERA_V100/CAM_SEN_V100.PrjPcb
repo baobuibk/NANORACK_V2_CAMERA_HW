@@ -200,7 +200,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JTXOZHHS
 
 [Document10]
 DocumentPath=CAMERA_V100.BomDoc
@@ -218,6 +218,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for CAM_SEN_V100\Design Rule Check - CAM_SEN_V100.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -1196,7 +1200,13 @@ Net2=NetName=+1.8V|NetColor=clYellow
 Net3=NetName=+2.8V|NetColor=$00FFFF6E
 Net4=NetName=+3.3V|NetColor=$006699FF
 Net5=NetName=+5V_CAM|NetColor=$00330066
-Net6=NetName=GND|NetColor=$00006699
+Net6=NetName=CAM_CK_N|NetColor=$0000BE00
+Net7=NetName=CAM_CK_P|NetColor=$0000BE00
+Net8=NetName=CAM_D0_N|NetColor=$0000BE00
+Net9=NetName=CAM_D0_P|NetColor=$0000BE00
+Net10=NetName=CAM_D1_N|NetColor=$0000BE00
+Net11=NetName=CAM_D1_P|NetColor=$0000BE00
+Net12=NetName=GND|NetColor=$00006699
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0

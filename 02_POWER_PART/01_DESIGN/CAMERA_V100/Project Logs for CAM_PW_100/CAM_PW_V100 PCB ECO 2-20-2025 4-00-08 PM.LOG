@@ -1,0 +1,159 @@
+Removed Pin From Net: NetName=CAM_SCL Pin=J1-10
+Removed Pin From Net: NetName=CAM_SDA Pin=J1-11
+Removed Pin From Net: NetName=CM4_SCL Pin=J1-12
+Removed Pin From Net: NetName=CM4_SDA Pin=J1-13
+Removed Pin From Net: NetName=+5V_CAM Pin=J1-15
+Removed Pin From Net: NetName=SEN_2_CLK Pin=J3-2
+Removed Pin From Net: NetName=SEN_2_SCL Pin=J3-4
+Removed Pin From Net: NetName=GND Pin=J3-5
+Removed Pin From Net: NetName=SEN_2_SDA Pin=J3-6
+Removed Pin From Net: NetName=SEN_2_GPIO0 Pin=J3-8
+Removed Pin From Net: NetName=SEN_2_GPIO1 Pin=J3-10
+Removed Pin From Net: NetName=GND Pin=J3-11
+Removed Pin From Net: NetName=SEN_2_GPIO2 Pin=J3-12
+Removed Pin From Net: NetName=SEN_2_nOFF Pin=J3-14
+Removed Pin From Net: NetName=GND Pin=J3-16
+Removed Pin From Net: NetName=GND Pin=J3-17
+Removed Pin From Net: NetName=SEN_3_GPIO0 Pin=J3-18
+Removed Pin From Net: NetName=SEN_3_CLK Pin=J3-19
+Removed Pin From Net: NetName=SEN_3_GPIO1 Pin=J3-20
+Removed Pin From Net: NetName=SEN_3_SCL Pin=J3-21
+Removed Pin From Net: NetName=SEN_3_GPIO2 Pin=J3-22
+Removed Pin From Net: NetName=SEN_3_SDA Pin=J3-23
+Removed Pin From Net: NetName=SEN_3_nOFF Pin=J3-24
+Removed Member From Class: ClassName=CONNECTOR Member=J3
+Removed Member From Class: ClassName=CONNECTOR Member=R25
+Removed Member From Class: ClassName=CONNECTOR Member=R26
+Removed Member From Class: ClassName=CONNECTOR Member=R28
+Removed Member From Class: ClassName=CONNECTOR Member=R29
+Removed Member From Class: ClassName=CONNECTOR Member=R30
+Removed Member From Class: ClassName=CONNECTOR Member=R31
+Removed Member From Class: ClassName=CONNECTOR Member=R32
+Removed Member From Class: ClassName=CONNECTOR Member=R33
+Removed Member From Class: ClassName=CONNECTOR Member=R34
+Removed Member From Class: ClassName=CONNECTOR Member=R35
+Removed Member From Class: ClassName=CONNECTOR Member=R36
+Removed Member From Class: ClassName=CONNECTOR Member=R37
+Removed Member From Class: ClassName=CONNECTOR Member=R38
+Removed Member From Class: ClassName=CONNECTOR Member=R39
+Removed Member From Class: ClassName=CONNECTOR Member=R40
+Removed Member From Class: ClassName=CONNECTOR Member=R41
+Removed Member From Class: ClassName=CONNECTOR Member=U16
+Removed Member From Class: ClassName=CONNECTOR Member=U17
+Removed Member From Class: ClassName=CONNECTOR Member=Y2
+Change Component Footprint: Designator=J1 Old Footprint=0532611571 New Footprint=CONN24_6p32X1p85
+Change Component Comment : Designator=J1 Old Comment=0532611571 New Comment=DF40C-24DP-0.4V51
+Change component parameters: Designator = "J1" ("J1"); Footprint = "0532611571"; UniqueID = "\KUFSMXBD" ("\KUFSMXBD")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Hirose"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=C27(CAP_C_1005X60)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C28(CAP_C_1005X60)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C29(CAP_C_1005X60)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C30(CAP_C_1005X60)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C31(CAP_C_1005X60)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C32(CAP_C_1005X60)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C33(CAP_C_1005X60)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C34(CAP_C_1005X60)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C35(CAP_C_1005X60)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C36(CAP_C_1005X60)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=+5V_CAM Pin=C27-2
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=+3.3V Pin=C28-2
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=+3.3V Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=+2.4V Pin=C30-2
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=+5V_CAM Pin=C31-2
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=+2.8V Pin=C32-2
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=+3.3V Pin=C33-2
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=+1.05V Pin=C34-2
+Added Pin To Net: NetName=GND Pin=C35-1
+Added Pin To Net: NetName=+5V_CAM Pin=C35-2
+Added Pin To Net: NetName=GND Pin=C36-1
+Added Pin To Net: NetName=+1.8V Pin=C36-2
+Added Pin To Net: NetName=+5V_CAM Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=+5V_CAM Pin=J1-4
+Added Pin To Net: NetName=SEN_3_CLK Pin=J1-5
+Added Pin To Net: NetName=CAM_SCL Pin=J1-6
+Added Pin To Net: NetName=SEN_3_SCL Pin=J1-7
+Added Pin To Net: NetName=CAM_SDA Pin=J1-8
+Added Pin To Net: NetName=SEN_3_SDA Pin=J1-9
+Added Pin To Net: NetName=CM4_SCL Pin=J1-10
+Added Pin To Net: NetName=SEN_3_GPIO0 Pin=J1-11
+Added Pin To Net: NetName=CM4_SDA Pin=J1-12
+Added Pin To Net: NetName=SEN_3_GPIO1 Pin=J1-13
+Added Pin To Net: NetName=SEN_3_GPIO2 Pin=J1-15
+Added Pin To Net: NetName=SEN_2_CLK Pin=J1-16
+Added Pin To Net: NetName=SEN_3_nOFF Pin=J1-17
+Added Pin To Net: NetName=SEN_2_SCL Pin=J1-18
+Added Pin To Net: NetName=GND Pin=J1-19
+Added Pin To Net: NetName=SEN_2_SDA Pin=J1-20
+Added Pin To Net: NetName=SEN_2_GPIO2 Pin=J1-21
+Added Pin To Net: NetName=SEN_2_GPIO0 Pin=J1-22
+Added Pin To Net: NetName=SEN_2_nOFF Pin=J1-23
+Added Pin To Net: NetName=SEN_2_GPIO1 Pin=J1-24
+Added Member To Class: ClassName=CONNECTOR Member=Component C4 4.7uF/10V
+Added Member To Class: ClassName=CONNECTOR Member=Component C7 4.7uF/10V
+Added Member To Class: ClassName=CONNECTOR Member=Component C11 0.22uF/16V
+Added Member To Class: ClassName=CONNECTOR Member=Component C15 0.22uF/16V
+Added Member To Class: ClassName=CONNECTOR Member=Component C16 0.22uF/16V
+Added Member To Class: ClassName=SENSOR Member=Component C19 0.22uF/16V
+Added Member To Class: ClassName=SENSOR Member=Component C20 0.22uF/16V
+Added Member To Class: ClassName=SENSOR Member=Component C21 0.22uF/16V
+Added Member To Class: ClassName=SENSOR Member=Component C22 0.22uF/16V
+Added Member To Class: ClassName=CONNECTOR Member=Component C27 0.22uF/16V
+Added Member To Class: ClassName=CONNECTOR Member=Component C28 0.22uF/16V
+Added Member To Class: ClassName=CONNECTOR Member=Component C29 0.22uF/16V
+Added Member To Class: ClassName=CONNECTOR Member=Component C30 0.22uF/16V
+Added Member To Class: ClassName=CONNECTOR Member=Component C31 0.22uF/16V
+Added Member To Class: ClassName=CONNECTOR Member=Component C32 0.22uF/16V
+Added Member To Class: ClassName=CONNECTOR Member=Component C33 0.22uF/16V
+Added Member To Class: ClassName=CONNECTOR Member=Component C34 0.22uF/16V
+Added Member To Class: ClassName=CONNECTOR Member=Component C35 0.22uF/16V
+Added Member To Class: ClassName=CONNECTOR Member=Component C36 0.22uF/16V
+Added Member To Class: ClassName=CONNECTOR Member=Component R1 10k
+Added Member To Class: ClassName=CONNECTOR Member=Component R3 10k
+Added Member To Class: ClassName=CONNECTOR Member=Component R4 10k
+Added Member To Class: ClassName=CONNECTOR Member=Component R5 10k
+Added Member To Class: ClassName=CONNECTOR Member=Component R6 4.7k
+Added Member To Class: ClassName=CONNECTOR Member=Component R7 4.7k
+Added Member To Class: ClassName=CONNECTOR Member=Component R8 4.7k
+Added Member To Class: ClassName=CONNECTOR Member=Component R9 4.7k
+Added Member To Class: ClassName=CONNECTOR Member=Component R10 4.7k
+Added Member To Class: ClassName=CONNECTOR Member=Component R11 4.7k
+Added Member To Class: ClassName=CONNECTOR Member=Component R12 4.7k
+Added Member To Class: ClassName=CONNECTOR Member=Component R13 4.7k
+Added Member To Class: ClassName=CONNECTOR Member=Component R14 4.7k
+Added Member To Class: ClassName=CONNECTOR Member=Component R15 4.7k
+Added Member To Class: ClassName=CONNECTOR Member=Component R16 4.7k
+Added Member To Class: ClassName=CONNECTOR Member=Component R17 4.7k
+Added Member To Class: ClassName=CONNECTOR Member=Component R18 4.7k
+Added Member To Class: ClassName=CONNECTOR Member=Component R19 4.7k
+Added Member To Class: ClassName=CONNECTOR Member=Component R20 4.7k
+Added Member To Class: ClassName=SENSOR Member=Component R24 4.7k
+Added Member To Class: ClassName=SENSOR Member=Component R27 4.7k
+Added Member To Class: ClassName=CONNECTOR Member=Component U3 TLV75528PDBVR
+Added Member To Class: ClassName=CONNECTOR Member=Component U10 NL7SZ97DFT2G-Q
+Added Member To Class: ClassName=CONNECTOR Member=Component U11 NL7SZ97DFT2G-Q
+Added Member To Class: ClassName=SENSOR Member=Component U12 TCA6416APWR
+Added Member To Class: ClassName=SENSOR Member=Component U13 PCA9544APW,118
+Added Member To Class: ClassName=SENSOR Member=Component U14 NL7SZ97DFT2G-Q
+Added Member To Class: ClassName=SENSOR Member=Component U15 NL7SZ97DFT2G-Q
+Added Member To Class: ClassName=CONNECTOR Member=Component Y1 DSC1001DL5-027.0000T
