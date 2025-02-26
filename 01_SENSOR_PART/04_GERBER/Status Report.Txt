@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [CAM_SEN_V100.PrjPcb]
+   Generated File[CAM_SEN_V100.TXT]
+   Generated File[CAM_SEN_V100.LDP]
+   Generated File[CAM_SEN_V100.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 2:48:54 PM On 2/26/2025

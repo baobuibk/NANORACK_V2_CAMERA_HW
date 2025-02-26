@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=+3.3V Pin=C18-2
+Removed Pin From Net: NetName=+2.4V Pin=R6-1
+Removed Pin From Net: NetName=+2.4V Pin=R7-1
+Removed Pin From Net: NetName=+2.4V Pin=R8-1
+Removed Pin From Net: NetName=+2.4V Pin=R9-1
+Removed Pin From Net: NetName=+2.4V Pin=R10-1
+Removed Pin From Net: NetName=+2.4V Pin=R11-1
+Removed Pin From Net: NetName=+2.4V Pin=R12-1
+Removed Pin From Net: NetName=+2.4V Pin=R13-1
+Removed Pin From Net: NetName=+2.4V Pin=R14-1
+Removed Pin From Net: NetName=+2.4V Pin=R15-1
+Removed Pin From Net: NetName=+2.4V Pin=R16-1
+Removed Pin From Net: NetName=+2.4V Pin=R17-1
+Removed Pin From Net: NetName=+2.4V Pin=R19-1
+Removed Pin From Net: NetName=+2.4V Pin=R20-1
+Removed Pin From Net: NetName=+2.4V Pin=R21-1
+Removed Pin From Net: NetName=+3.3V Pin=Y1-1
+Removed Pin From Net: NetName=+3.3V Pin=Y1-4
+Change Component Comment : Designator=R20 Old Comment=4.7k New Comment=4.7k/NC
+Change Component Comment : Designator=R21 Old Comment=4.7k New Comment=4.7k/NC
+Added Component: Designator=J3(Jumper_1-1)
+Added Component: Designator=J4(Jumper_1-1)
+Added Component: Designator=R24(RES_C_1005X40)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R25(RES_C_1005X40)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=J3-2
+Added Pin To Net: NetName=+1.8V Pin=J4-2
+Added Pin To Net: NetName=+1.8V Pin=R6-1
+Added Pin To Net: NetName=+1.8V Pin=R7-1
+Added Pin To Net: NetName=+1.8V Pin=R8-1
+Added Pin To Net: NetName=+1.8V Pin=R9-1
+Added Pin To Net: NetName=+1.8V Pin=R10-1
+Added Pin To Net: NetName=+1.8V Pin=R11-1
+Added Pin To Net: NetName=+1.8V Pin=R12-1
+Added Pin To Net: NetName=+1.8V Pin=R13-1
+Added Pin To Net: NetName=+1.8V Pin=R14-1
+Added Pin To Net: NetName=+1.8V Pin=R15-1
+Added Pin To Net: NetName=+1.8V Pin=R16-1
+Added Pin To Net: NetName=+1.8V Pin=R17-1
+Added Pin To Net: NetName=+3.3V Pin=R19-1
+Added Pin To Net: NetName=+3.3V Pin=R20-1
+Added Pin To Net: NetName=+3.3V Pin=R21-1
+Added Pin To Net: NetName=+3.3V Pin=R24-1
+Added Pin To Net: NetName=CM4_SCL Pin=R24-2
+Added Pin To Net: NetName=+3.3V Pin=R25-1
+Added Pin To Net: NetName=CM4_SDA Pin=R25-2
+Added Pin To Net: NetName=NetC18_2 Pin=C18-2
+Added Pin To Net: NetName=NetC18_2 Pin=J3-1
+Added Pin To Net: NetName=NetC18_2 Pin=J4-1
+Added Pin To Net: NetName=NetC18_2 Pin=Y1-1
+Added Pin To Net: NetName=NetC18_2 Pin=Y1-4
+Added Net: Name=NetC18_2
+Added Member To Class: ClassName=CONNECTOR Member=Component J3 Jumper_1-1
+Added Member To Class: ClassName=CONNECTOR Member=Component J4 Jumper_1-1
+Added Member To Class: ClassName=CONNECTOR Member=Component R24 4.7k
+Added Member To Class: ClassName=CONNECTOR Member=Component R25 4.7k

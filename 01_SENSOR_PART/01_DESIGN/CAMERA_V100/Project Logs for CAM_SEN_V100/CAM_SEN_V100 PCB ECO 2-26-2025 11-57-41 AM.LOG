@@ -1,0 +1,150 @@
+Removed Pin From Net: NetName=+1.8V Pin=R1-2
+Removed Pin From Net: NetName=SEN_1_nOFF Pin=R2-1
+Removed Pin From Net: NetName=+1.8V Pin=R2-2
+Removed Pin From Net: NetName=SEN_2_nOFF Pin=R3-1
+Removed Pin From Net: NetName=+1.8V Pin=R3-2
+Removed Pin From Net: NetName=SEN_3_nOFF Pin=R4-1
+Removed Pin From Net: NetName=+1.8V Pin=R4-2
+Added Component: Designator=H5(HEX-0.7mm)
+Added Component: Designator=H6(HEX-0.7mm)
+Added Component: Designator=J4(Jumper_1-1)
+Added Component: Designator=J5(Jumper_1-1)
+Added Component: Designator=J6(Jumper_1-1)
+Added Component: Designator=J7(Jumper_1-1)
+Added Component: Designator=J8(Jumper_1-1)
+Added Component: Designator=J9(Jumper_1-1)
+Added Component: Designator=J10(Jumper_1-1)
+Added Component: Designator=J11(Jumper_1-1)
+Added Component: Designator=R5(RES_C_1005X40)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES_C_1005X40)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES_C_1005X40)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES_C_1005X40)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES_C_1005X40)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES_C_1005X40)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES_C_1005X40)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES_C_1005X40)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J7-1
+Added Pin To Net: NetName=GND Pin=J8-1
+Added Pin To Net: NetName=GND Pin=J9-1
+Added Pin To Net: NetName=GND Pin=J10-1
+Added Pin To Net: NetName=GND Pin=J11-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=+1.8V Pin=R2-1
+Added Pin To Net: NetName=+1.8V Pin=R3-1
+Added Pin To Net: NetName=+1.8V Pin=R4-1
+Added Pin To Net: NetName=+1.8V Pin=R5-1
+Added Pin To Net: NetName=+1.8V Pin=R6-1
+Added Pin To Net: NetName=SEN_0_nOFF Pin=R6-2
+Added Pin To Net: NetName=+1.8V Pin=R7-1
+Added Pin To Net: NetName=SEN_1_nOFF Pin=R7-2
+Added Pin To Net: NetName=SEN_1_nOFF Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=+1.8V Pin=R9-1
+Added Pin To Net: NetName=SEN_2_nOFF Pin=R9-2
+Added Pin To Net: NetName=SEN_2_nOFF Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=+1.8V Pin=R11-1
+Added Pin To Net: NetName=SEN_3_nOFF Pin=R11-2
+Added Pin To Net: NetName=SEN_3_nOFF Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R12-2
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Pin To Net: NetName=NetJ4_2 Pin=U1-J8
+Added Net: Name=NetJ4_2
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-2
+Added Pin To Net: NetName=NetJ5_2 Pin=U2-J8
+Added Net: Name=NetJ5_2
+Added Pin To Net: NetName=NetJ6_2 Pin=J6-2
+Added Pin To Net: NetName=NetJ6_2 Pin=U3-J8
+Added Net: Name=NetJ6_2
+Added Pin To Net: NetName=NetJ7_2 Pin=J7-2
+Added Pin To Net: NetName=NetJ7_2 Pin=U4-J8
+Added Net: Name=NetJ7_2
+Added Pin To Net: NetName=NetJ8_2 Pin=J8-2
+Added Pin To Net: NetName=NetJ8_2 Pin=U1-C1
+Added Net: Name=NetJ8_2
+Added Pin To Net: NetName=NetJ9_2 Pin=J9-2
+Added Pin To Net: NetName=NetJ9_2 Pin=U2-C1
+Added Net: Name=NetJ9_2
+Added Pin To Net: NetName=NetJ10_2 Pin=J10-2
+Added Pin To Net: NetName=NetJ10_2 Pin=U3-C1
+Added Net: Name=NetJ10_2
+Added Pin To Net: NetName=NetJ11_2 Pin=J11-2
+Added Pin To Net: NetName=NetJ11_2 Pin=U4-C1
+Added Net: Name=NetJ11_2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U1-E2
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U2-E2
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U3-E2
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=U4-E2
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=P1_SLVS Pin=H6-1
+Added Pin To Net: NetName=P1_SLVS Pin=U1-H10
+Added Pin To Net: NetName=P1_SLVS Pin=U2-H10
+Added Pin To Net: NetName=P1_SLVS Pin=U3-H10
+Added Pin To Net: NetName=P1_SLVS Pin=U4-H10
+Added Net: Name=P1_SLVS
+Added Pin To Net: NetName=SLVS Pin=H5-1
+Added Pin To Net: NetName=SLVS Pin=U1-A3
+Added Pin To Net: NetName=SLVS Pin=U2-A3
+Added Pin To Net: NetName=SLVS Pin=U3-A3
+Added Pin To Net: NetName=SLVS Pin=U4-A3
+Added Net: Name=SLVS
+Added Member To Class: ClassName=POWER Member=Component H5 Hole 0.7mm
+Added Member To Class: ClassName=POWER Member=Component H6 Hole 0.7mm
+Added Member To Class: ClassName=POWER Member=Component J4 Jumper_1-1
+Added Member To Class: ClassName=POWER Member=Component J5 Jumper_1-1
+Added Member To Class: ClassName=POWER Member=Component J6 Jumper_1-1
+Added Member To Class: ClassName=POWER Member=Component J7 Jumper_1-1
+Added Member To Class: ClassName=POWER Member=Component J8 Jumper_1-1
+Added Member To Class: ClassName=POWER Member=Component J9 Jumper_1-1
+Added Member To Class: ClassName=POWER Member=Component J10 Jumper_1-1
+Added Member To Class: ClassName=POWER Member=Component J11 Jumper_1-1
+Added Member To Class: ClassName=POWER Member=Component R5 4.7k
+Added Member To Class: ClassName=POWER Member=Component R6 4.7k/NC
+Added Member To Class: ClassName=POWER Member=Component R7 4.7k/NC
+Added Member To Class: ClassName=POWER Member=Component R8 4.7k
+Added Member To Class: ClassName=POWER Member=Component R9 4.7k/NC
+Added Member To Class: ClassName=POWER Member=Component R10 4.7k
+Added Member To Class: ClassName=POWER Member=Component R11 4.7k/NC
+Added Member To Class: ClassName=POWER Member=Component R12 4.7k

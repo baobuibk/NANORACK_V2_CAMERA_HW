@@ -1,0 +1,280 @@
+*************************************************************
+FileName = CAM_PW_V100.GBR
+AutoAperture = True
+*************************************************************
+Generating : [L4] BOT
+      File : [L4] BOTTOM.gbr
+
+    Adding Layer      : [L4] BOT
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : CAM_PW_V100_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : [L4] BOT
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D21
+    D22
+    D24
+    D27
+    D31
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : [L1] TOP
+      File : [L1] TOP.gbr
+
+    Adding Layer      : [L1] TOP
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : CAM_PW_V100_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : [L1] TOP
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : CAM_PW_V100_Pads_Bot.gbr
+
+    Adding Layer      : [L4] BOT
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : CAM_PW_V100_Keep-out.gbr
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : CAM_PW_V100_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D41
+    D42
+    D43
+    D44
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : CAM_PW_V100_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : [L1] TOP
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : CAM_PW_V100_Pads_Top.gbr
+
+    Adding Layer      : [L1] TOP
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : [L3] GND
+      File : [L3] GND.gbr
+
+    Adding Layer      : [L3] GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : CAM_PW_V100_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : CAM_PW_V100_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : [L4] BOT
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D19
+    D21
+    D22
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : [L2] POWER
+      File : [L2] POWER.gbr
+
+    Adding Layer      : [L2] POWER
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : CAM_PW_V100_Drawing_1.gbr
+
+    Adding Drill Pair : [L1] TOP-[L4] BOT
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D46
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : CAM_PW_V100_Drillmap_1.gbr
+
+    Adding Drill Pair : [L1] TOP-[L4] BOT
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : CAM_PW_V100_Profile.gbr
+
+
+Used DCodes :
+    D48
+*************************************************************
+
